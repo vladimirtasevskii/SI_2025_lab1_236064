@@ -1,0 +1,19 @@
+*   1fc4152 Merge branch 'master' of https://github.com/vladimirtasevskii/SI_2025_lab1_236064
+|\  
+| *   a7be817 Merge pull request #12 from vladimirtasevskii/5-filter-tasks-by-category
+| |\  
+| | * a583904 Implement filter tasks by category
+| * |   f051120 Merge pull request #10 from vladimirtasevskii/1-remove-a-task-by-name
+| |\ \  
+| | |/  
+| |/|   
+| | * b73e055 Implement Remove a task by name
+| |/  
+* / 95a5185 Implement List tasks sorted by name
+|/  
+* 41ebf35 Add starter code
+* e65531b Initial commit
+
+
+//namesto pull napisav fetch i se buggna nesto zatoa gi nemasite logs:((
+
